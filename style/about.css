@@ -1,0 +1,26 @@
+main#about {
+    padding: 20px;
+    background-color: #eef2f3;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    line-height: 1.6;
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
